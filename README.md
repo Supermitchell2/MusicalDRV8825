@@ -7,10 +7,10 @@ The software is written as an Arduino library.
 
 The features listed below are included in the repository:
 
-Plays single notes from the fourth octave's chromatic scale.
-Plays complete songs composed of any combination of the 12 supported notes.
-Handles fractional notes (e.g. half, quarter, eighth notes)
-Adjustable tempo variable
+* Plays single notes from the fourth octave's chromatic scale.
+* Plays complete songs composed of any combination of the 12 supported notes.
+* Handles fractional notes (e.g. half, quarter, eighth notes)
+* Adjustable tempo variable
 
 In this repository are the following files:
 
