@@ -14,13 +14,13 @@ Adjustable tempo variable
 
 In this repository are the following files:
 
-README - This file
-LICENSE - MIT license document
-MusicalDRV8825.cpp - C++ source code for Arduino
-MusicalDRV8825.h - C++ header file for Arduino
-MusicalDRV8825_Sample.ino - Arduino file containing sample library calls
-Sample_Audio_Output.mp3 - Audio output created by the sample ino file
-DRV8825_Arduino_Schematic.png - Kicad EDA schematic of the circuit used
+* README - This file
+* LICENSE - MIT license document
+* MusicalDRV8825.cpp - C++ source code for Arduino
+* MusicalDRV8825.h - C++ header file for Arduino
+* MusicalDRV8825_Sample.ino - Arduino file containing sample library calls
+* Sample_Audio_Output.mp3 - Audio output created by the sample ino file
+* DRV8825_Arduino_Schematic.png - Kicad EDA schematic of the circuit used
 
 To install this MusicalDRV8825 library for Arduino, please refer to:
 
